@@ -378,7 +378,6 @@ namespace Kalkulator {
 				state = 3;
 			}
 			addDigit(decimalPoint());
-//			addDigit(",");
 			comaEntered = true;
 		}
 	}
@@ -470,7 +469,6 @@ namespace Kalkulator {
 		else if (e->KeyCode.ToString() == "Enter")
 		{
 			operandPressed("=");
-
 		}
 
 	}
@@ -490,6 +488,8 @@ namespace Kalkulator {
 
 		if (state == 0 )
 		{
+			if (c == "+/-")
+				return;
 			textBox1->Text = "";
 			state = 1;
 		}
