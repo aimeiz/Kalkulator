@@ -495,6 +495,8 @@ namespace Kalkulator {
 		}
 		if (state == 2)
 		{
+			if (c == "+/-")
+				return;
 			textBox1->Text = "";
 			state = 3;
 		}

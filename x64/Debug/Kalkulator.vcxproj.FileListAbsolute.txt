@@ -1,10 +1,9 @@
-C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.MyForm.resources
-C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.MyForm.pl-PL.resources
-C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.vcxproj.GenerateResource.cache
-C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.exe
 C:\Users\SP5IOU\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.vcxproj.AssemblyReference.cache
 C:\Users\SP5IOU\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.MyForm.resources
 C:\Users\SP5IOU\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.MyForm.pl-PL.resources
 C:\Users\SP5IOU\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.vcxproj.GenerateResource.cache
 C:\Users\SP5IOU\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.exe
-C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.vcxproj.AssemblyReference.cache
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.MyForm.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.MyForm.pl-PL.resources
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.vcxproj.GenerateResource.cache
+C:\Users\sp5io\OneDrive\Dokumenty\Visual Studio 2019\source\repos\Kalkulator\x64\Debug\Kalkulator.exe
